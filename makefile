@@ -1,6 +1,6 @@
 all:
 	g++ $(p).cc
-	./$(p)
+	./a.out
 
 clean:
-	rm $(p)
+	rm a.out
